@@ -5,7 +5,7 @@
 2. [RPM_and_YUM](2.RPM_and_YUM.md)介绍了RPM和YUM的使用
 3. [systemd](3.systemd.md)介绍了systemd的使用
 4. [bash_and_command](4.bash_and_command.md)介绍了bash和命令的长短格式
-5. [frequently_command](5.frequently_command.md)介绍了常用的命令
+5. [frequently_commands](5.frequently_command.md)介绍了常用的命令
 6. [basic_concept](6.basic_concept.md)介绍了一些基本概念
    - 环境变量
    - 环境变量PATH
