@@ -32,18 +32,3 @@
 10. [System_Services_and_Tasks](10.System_Services_and_Tasks.md)介绍了系统服务与任务
    - 计划任务服务程序，**分为一次性计划任务与长期性计划任务**
    - `su` 命令与 `sudo` 服务
-
-:begin_tab:toc
- - [chapter_deep-learning-computation/index](chapter_deep-learning-computation/index.ipynb)
- - [chapter_convolutional-neural-networks/index](chapter_convolutional-neural-networks/index.ipynb)
- - [chapter_convolutional-modern/index](chapter_convolutional-modern/index.ipynb)
- - [chapter_recurrent-neural-networks/index](chapter_recurrent-neural-networks/index.ipynb)
- - [chapter_recurrent-modern/index](chapter_recurrent-modern/index.ipynb)
- - [chapter_attention-mechanisms/index](chapter_attention-mechanisms/index.ipynb)
- - [chapter_optimization/index](chapter_optimization/index.ipynb)
- - [chapter_computational-performance/index](chapter_computational-performance/index.ipynb)
- - [chapter_computer-vision/index](chapter_computer-vision/index.ipynb)
- - [chapter_natural-language-processing-pretraining/index](chapter_natural-language-processing-pretraining/index.ipynb)
- - [chapter_natural-language-processing-applications/index](chapter_natural-language-processing-applications/index.ipynb)
- - [chapter_appendix-tools-for-deep-learning/index](chapter_appendix-tools-for-deep-learning/index.ipynb)
-:end_tab:
