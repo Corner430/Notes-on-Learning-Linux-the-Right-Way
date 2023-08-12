@@ -33,5 +33,3 @@ English | [简体中文](README_cn.md)
 10. [System Services and Tasks](10.System_Services_and_Tasks.md) covers system services and tasks:
    - Scheduled task services, **including one-time and long-term scheduled tasks**
    - The `su` command and the `sudo` service
-
-This is a README.md I've written. Could you help me create an English version? Thank you.
