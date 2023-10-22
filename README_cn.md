@@ -35,3 +35,4 @@
    - 计划任务服务程序，**分为一次性计划任务与长期性计划任务**
    - `su` 命令与 `sudo` 服务
 11. [Storage Structure and Disk Partition](11.Storage-structure-and-disk-partition.md) 介绍了存储结构与磁盘分区
+12. [Using RAID and LVM disk array technology](12.Using_RAID_and_LVM_disk_array_technology.md) 介绍了RAID与LVM磁盘阵列技术的使用

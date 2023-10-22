@@ -33,4 +33,5 @@ English | [简体中文](README_cn.md)
 10. [System Services and Tasks](10.System_Services_and_Tasks.md) covers system services and tasks:
    - Scheduled task services, **including one-time and long-term scheduled tasks**
    - The `su` command and the `sudo` service
-11. [Storage Structure and Disk Partition](11.Storage-structure-and-disk-partition.md)
+11. [Storage Structure and Disk Partition](11.Storage-structure-and-disk-partition.md) introduces the storage structure and disk partition.
+12. [Using RAID and LVM disk array technology](12.Using_RAID_and_LVM_disk_array_technology.md) introduces the usage of RAID and LVM disk array technology
