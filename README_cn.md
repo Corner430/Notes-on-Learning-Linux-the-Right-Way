@@ -35,6 +35,29 @@
    - 计划任务服务程序，**分为一次性计划任务与长期性计划任务**
    - `su` 命令与 `sudo` 服务
 11. [Storage Structure and Disk Partition](11.Storage-structure-and-disk-partition.md) 介绍了存储结构与磁盘分区
+   - 文件系统层次化标准（FHS）
+   - /dev/
+   - 主分区、扩展分区、逻辑分区
+   - 文件系统：Ext3、Ext4、XFS、Btrfs、ReiserFS、JFS、F2FS、ZFS
+   - inode 表格
+   - 分区、格式化、挂载
+   - 添加交换分区、磁盘容量配额
 12. [Using RAID and LVM disk array technology](12.Using_RAID_and_LVM_disk_array_technology.md) 介绍了RAID与LVM磁盘阵列技术的使用
+   - LVM技术是在硬盘分区和文件系统之间添加了一个逻辑层，它提供了一个抽象的卷组，可以把多块硬盘进行卷组合并。
+   - **LVM 还具备有“快照卷”功能。**
+   - LVM 的删除是有顺序的
 13. [iptables firewalld ufw](13.iptables_firewalld_and_ufw.md) 介绍了iptables firewalld ufw的使用
+   - 防火墙的规则是有顺序的，**先匹配的规则优先级高**
+   - 五大规则分类
 14. [ssh](14.ssh.md) 介绍了如何使用 ssh 服务管理远程主机
+   - nmtui 是 NetworkManager 文本用户界面工具的缩写，它是一个在终端中配置网络连接的命令行工具。
+   - 使用 `nmcli` 创建网络会话
+   - 绑定多网卡
+   - sshd 服务的配置
+   - scp 命令
+   - 不间断会话服务（`screen`）
+15. [Deploy static websites using Apache Services](15.Deploy_static_websites_using_Apache_services.md) 介绍了如何使用 Apache 服务部署静态网站
+   - IIS、Nginx 和 Apache
+   - Apache 服务的安装与配置
+   - SELinux安全子系统
+   - 虚拟主机功能

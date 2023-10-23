@@ -34,6 +34,29 @@ English | [简体中文](README_cn.md)
    - Scheduled task services, **including one-time and long-term scheduled tasks**
    - The `su` command and the `sudo` service
 11. [Storage Structure and Disk Partition](11.Storage-structure-and-disk-partition.md) introduces the storage structure and disk partition.
+   - File System Hierarchy Standard (FHS)
+   - /dev/
+   - Primary Partition, Extended Partition, Logical Partition
+   - File Systems: Ext3, Ext4, XFS, Btrfs, ReiserFS, JFS, F2FS, ZFS
+   - Inode Table
+   - Partitioning, Formatting, Mounting
+   - Adding Swap Partition, Disk Space Quotas
 12. [Using RAID and LVM disk array technology](12.Using_RAID_and_LVM_disk_array_technology.md) introduces the usage of RAID and LVM disk array technology
+   - LVM technology adds a logical layer between hard disk partitions and the file system, providing an abstract volume group that allows you to combine multiple hard disks.
+   - LVM also has "snapshot" volume functionality.
+   - LVM deletion is ordered.
 13. [iptables, firewalld and ufw](13.iptables_firewalld_and_ufw.md) introduces the usage of iptables, firewalld and ufw
+   - Firewall rules have priority based on the order in which they are matched.
+   - Five Rule Categories
 14. [ssh](14.ssh.md) introduces the usage of ssh to manage remote hosts
+   - `nmtui` is a command-line tool for configuring network connections in a text-based interface.
+   - Using `nmcli` to Create Network Sessions
+   - Binding Multiple Network Cards
+   - sshd Service Configuration
+   - `scp` (Secure Copy) Command
+   - Persistent Sessions (`screen`)
+15. [Deploy static websites using Apache services](15.Deploy_static_websites_using_Apache_services.md) introduces the usage of Apache services to deploy static websites
+   - IIS, Nginx, and Apache
+   - Installation and Configuration of Apache Services
+   - SELinux Security Subsystem
+   - Virtual Host Functionality
