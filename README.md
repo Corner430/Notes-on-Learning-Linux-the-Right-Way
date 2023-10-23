@@ -36,3 +36,4 @@ English | [简体中文](README_cn.md)
 11. [Storage Structure and Disk Partition](11.Storage-structure-and-disk-partition.md) introduces the storage structure and disk partition.
 12. [Using RAID and LVM disk array technology](12.Using_RAID_and_LVM_disk_array_technology.md) introduces the usage of RAID and LVM disk array technology
 13. [iptables, firewalld and ufw](13.iptables_firewalld_and_ufw.md) introduces the usage of iptables, firewalld and ufw
+14. [ssh](14.ssh.md) introduces the usage of ssh to manage remote hosts

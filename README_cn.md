@@ -37,3 +37,4 @@
 11. [Storage Structure and Disk Partition](11.Storage-structure-and-disk-partition.md) 介绍了存储结构与磁盘分区
 12. [Using RAID and LVM disk array technology](12.Using_RAID_and_LVM_disk_array_technology.md) 介绍了RAID与LVM磁盘阵列技术的使用
 13. [iptables firewalld ufw](13.iptables_firewalld_and_ufw.md) 介绍了iptables firewalld ufw的使用
+14. [ssh](14.ssh.md) 介绍了如何使用 ssh 服务管理远程主机
