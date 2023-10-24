@@ -65,3 +65,6 @@ English | [简体中文](README_cn.md)
    - vsftpd(very secure ftp daemon)
    - PAM(Pluggable authentication module)
    - TFTP(Trivial File Transfer Protocol)
+17. [Use Samba or NFS to achieve file sharing](17.Use_Samba_or_NFS_to_achieve_file_sharing.md)
+   - Samba allows multiple systems to share files and printers
+   - NFS shares files and directories between Linux systems

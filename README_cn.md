@@ -66,3 +66,6 @@
    - vsftpd(very secure ftp daemon，非常安全的FTP守护进程)
    - PAM(可插拔认证模块)
    - 简单文件传输协议(Trivial File Transfer Protocol, TFTP)
+17. [Use Samba or NFS to achieve file sharing](17.Use_Samba_or_NFS_to_achieve_file_sharing.md)
+   - Samba 允许多系统之间共享文件和打印机
+   - NFS 在 Linux 系统之间共享文件和目录
