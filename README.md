@@ -69,3 +69,4 @@ English | [简体中文](README_cn.md)
    - Samba allows multiple systems to share files and printers
    - NFS shares files and directories between Linux systems
 18. [Using BIND to provide domain name resolution service](18.Using_BIND_to_provide_domain_name_resolution_service.md) introduces the usage of BIND to provide domain name resolution service
+19. [Use DHCP to dynamically manage host addresses](19.Use_DHCP_to_dynamically_manage_host_addresses.md)

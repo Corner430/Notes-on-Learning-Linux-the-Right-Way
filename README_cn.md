@@ -70,3 +70,4 @@
    - Samba 允许多系统之间共享文件和打印机
    - NFS 在 Linux 系统之间共享文件和目录
 18. [Using BIND to provide domain name resolution service](18.Using_BIND_to_provide_domain_name_resolution_service.md) 介绍了如何使用 BIND 提供域名解析服务
+19. [Use DHCP to dynamically manage host addresses](19.Use_DHCP_to_dynamically_manage_host_addresses.md)
