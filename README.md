@@ -70,3 +70,5 @@ English | [简体中文](README_cn.md)
    - NFS shares files and directories between Linux systems
 18. [Using BIND to provide domain name resolution service](18.Using_BIND_to_provide_domain_name_resolution_service.md) introduces the usage of BIND to provide domain name resolution service
 19. [Use DHCP to dynamically manage host addresses](19.Use_DHCP_to_dynamically_manage_host_addresses.md)
+20. [Deploy the mail system using Postify and Dovecot](20.Deploy_the_mail_system_using_Postifx_and_Dovecot.md)
+21. [Deploy proxy caching service using Squid](21.Deploy_proxy_caching_service_using_Squid.md)
